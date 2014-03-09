@@ -1,0 +1,22 @@
+.jstb_filelist {
+	background-image: url(../images/attachment.png);
+}
+
+.jstb_filelist_div_inner {
+    background-color:#F7F7F7;
+    border:1px solid #507AAA;
+    display:block;
+    position:absolute;
+    /*top: 30px;*/
+    /*left: -30px;*/
+    width:400px;
+    z-index:80;
+}
+
+.jstb_filelist_main_div {
+  position: relative;
+}
+
+.jstb_filelist_div {
+	position:absolute;
+}
